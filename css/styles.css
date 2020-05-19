@@ -47,7 +47,7 @@ input,textarea{
 /* fonts */
 @font-face{
     font-family: "Rubik-Regular";
-    src: url(fonts/Rubik-Regular.ttf);
+    src: url("fonts/Rubik-Regular.ttf");
 }
 
 /* mobile styles */
